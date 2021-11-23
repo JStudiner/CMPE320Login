@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>TamLogo.png</file>
+        <file>../../../OneDrive - Queen's University/Year 3/320/Project/Project Resources/TamLogoTransparent.jpg</file>
+        <file>../../../OneDrive - Queen's University/Year 3/320/Project/Project Resources/Tam-2-GoLogo.png</file>
+    </qresource>
+</RCC>
